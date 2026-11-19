@@ -1,0 +1,781 @@
+country_code,country,indicator_code,indicator,year,value
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,6.4999999999999
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,6.0195346193922
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,6.60000045209176
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,6.39988362730921
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,7.06253713446816
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,0.699728593494228
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,6.72137167584978
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,4.84314605889178
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,7.41076242592504
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,7.17275963956332
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,7.19494942728191
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2014,9.37199994240375
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2013,10.7602131311256
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2012,7.62041176451649
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2011,-5.37044724000579
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2010,6.84804939907013
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2009,3.60332156667053
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2008,4.7826659787672
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2007,1.10142976793477
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2006,2.81557859252327
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2005,0.996065564854788
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2004,3.18503822575397
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2003,-4.72586658630681
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2002,-2.73052647441901
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2001,-2.15401249077306
+CIV,Cote d'Ivoire,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2000,-0.265789462275947
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,5.95441714756899
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,5.84746854280382
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.14009100080186
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,3.80484978178042
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,5.07646643533542
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,0.513941670628171
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,6.5077747939152
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,6.20007768127284
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,8.12889488100956
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,3.37346574966936
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.12075933817334
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2014,2.85624016330883
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2013,7.31252501678145
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2012,9.2927894063005
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2011,14.0471235803149
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2010,7.89971194051621
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2009,4.84448705175076
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2008,9.14979893831817
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2007,4.34681910440079
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2006,6.39991260618034
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2005,5.90000381855104
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2004,5.59999999077445
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2003,5.200000133101
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2002,4.49999955900331
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2001,4.00000012807919
+GHA,Ghana,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2000,3.70000008164408
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.63261093844984
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,4.66019594571891
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,5.71999241214208
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.85998104287999
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,7.59048947333467
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-0.272766327438816
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,5.11415885767801
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,5.64794640709219
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,3.83795817364721
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,4.21351706814744
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,4.96772112759767
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2014,5.02011100232484
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2013,3.7978483925754
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2012,4.56867961444982
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2011,5.1211061197056
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2010,8.05847360290906
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2009,3.30693981631089
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2008,0.232282744812977
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2007,6.85072976998784
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2006,6.47249430015484
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2005,5.90666607980057
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2004,5.10429977629738
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2003,2.93247554570904
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2002,0.546859530175595
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2001,3.77990649795343
+KEN,Kenya,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2000,0.599695390807426
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.01336180700973
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,4.07106650147703
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,3.31590368111438
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.31882949157136
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,1.109252540249
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-6.36889840468527
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.20842927835211
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.92275734199798
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,0.805886619091581
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,-1.61686894903467
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.65269329541779
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2014,6.30971865521856
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2013,6.67133539308232
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2012,4.23006117492493
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2011,5.30792420293915
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2010,8.00565591623166
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2009,8.03692510100366
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2008,6.76447277784263
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2007,6.59113036066867
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2006,6.05942803202491
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2005,6.43851652535925
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2004,9.25055822923169
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2003,7.34719496793299
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2002,15.3291557409618
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2001,5.91768464924425
+NGA,Nigeria,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2000,5.01593475936546
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,4.13928145259649
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,3.61612792495727
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,2.71446691675897
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,4.03371066956886
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,3.58194129290288
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-3.29212615874911
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,2.54913933046188
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,2.79433082130893
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,2.5074548530006
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,1.31700355850866
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,2.93344601140811
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2014,4.72713989905584
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2013,5.27451055861319
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2012,3.32826360696473
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2011,4.2921410260969
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2010,6.06650061092895
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2009,3.14726802642645
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2008,5.20016102666736
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2007,6.15965789735054
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2006,6.04946351604032
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2005,6.00952996907237
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2004,6.68448764056895
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2003,4.12072590578165
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2002,6.39348834856037
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2001,4.2135192182343
+SSF,Sub-Saharan Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2000,3.43679300853846
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2025,1.11462608103956
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2024,0.534843531905139
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2023,0.80610455095804
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2022,2.05813661692193
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2021,4.85864865060148
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2020,-6.1689177146757
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2019,0.25993557687633
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2018,1.55678384721676
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2017,1.15794695181735
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2016,0.664552307858116
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2015,1.32186223678229
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2014,1.41382645223793
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2013,2.48546800826588
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2012,2.39623238465745
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2011,3.16855627858818
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2010,3.03973288127956
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2009,-1.53808913525583
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2008,3.1910438863288
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2007,5.36047405394162
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2006,5.60380645895889
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2005,5.27705197295467
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2004,4.55455990721774
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2003,2.94907546754213
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2002,3.70037440406668
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2001,2.70000000019104
+ZAF,South Africa,NY.GDP.MKTP.KD.ZG,GDP growth (annual %),2000,4.20000000067826
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,0.125038772593103
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,3.45053028131018
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,4.36972254867474
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,5.23352856100842
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,4.15919657911797
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,2.41252617189052
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,0.79085551205366
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,0.401297817263547
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,0.685881065304603
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,0.723178457513308
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,1.25149954781467
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,0.448682076766141
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,2.58117037252935
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,1.30451119915606
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,4.9124339505245
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,1.22645612135479
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,1.01950457731137
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,6.30852769152578
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,1.89200629349597
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2006,2.46719148596914
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2005,3.88583039886481
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2004,1.45798835600741
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2003,3.29680746974208
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2002,3.07726485157427
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2001,4.36152914007256
+CIV,Cote d'Ivoire,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2000,2.53077516737996
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,14.2046755548989
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,22.8483281157842
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,38.1069656296501
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,31.2558951049016
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,9.97108867504439
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,9.88728956269944
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,7.14364003330856
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,7.80876516610703
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,12.3719215507048
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,17.4546347070867
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,17.1499695007877
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,15.4896160333318
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,11.6661923071728
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,11.1863409441067
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,8.7284593709302
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,10.7333898354914
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,19.2469482220857
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,16.494639613412
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,10.7342665456292
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2006,11.6791839392491
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2005,15.4389920155908
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2004,18.0427388232564
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2003,29.7729797160383
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2002,9.36093239560312
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2001,41.509496287803
+GHA,Ghana,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2000,40.240933123914
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,4.0693076061457
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,4.48978854243447
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,7.67139634029402
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,7.65986268272223
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,6.10793603659176
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,5.40516207933392
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,5.23963795764792
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,4.68980646776329
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,8.00564967709944
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,6.29724953814624
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,6.58215429284778
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,6.87815499275948
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,5.71749357037732
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,9.37777003547598
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,14.0224913014704
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,3.96138889115385
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,9.23412592394651
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,26.2398166445062
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,9.75888023027529
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2006,14.4537342081707
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2005,10.3127783574682
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2004,11.6240355442426
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2003,9.81569062979653
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2002,1.96130821739162
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2001,5.73859814341466
+KEN,Kenya,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2000,9.98002515350979
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,23.0101235833333
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,33.2416590552748
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,24.6595502031139
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,18.8471877843274
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,16.9528457221607
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,13.2460234276598
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,11.3964223378114
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,12.0951065173431
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,16.5022662139641
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,15.6968126387972
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,9.00943498007706
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,8.04741087967907
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,8.49551838265678
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,12.2242413020582
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,10.8261371880018
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,13.7400521363694
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,12.5379242951095
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,11.5830547966809
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,5.38610421570143
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2006,8.22743678120907
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2005,17.8634933661604
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2004,14.9980338183251
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2003,14.0317836131436
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2002,12.8765792031098
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2001,18.8736462093862
+NGA,Nigeria,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2000,6.93329215565159
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,3.40373458279055
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,4.30009584697999
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,6.69759990789844
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,9.45801281304023
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,4.43905481215002
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,3.39862928518852
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,2.86758803446899
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,3.91133439990728
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,5.18618655524149
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,5.30264297710324
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,3.47238752883651
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,4.4038027171436
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,4.8851638759547
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,6.58183105075141
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,5.36621092948077
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,4.02202422214216
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,5.00627361534046
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,10.3785244787979
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,6.78669789038244
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2006,6.53784395299603
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2005,6.42755278070086
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2004,4.13663213144748
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2003,5.67942414068799
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2002,4.70579123746032
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2001,5.14746800222618
+SSF,Sub-Saharan Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2000,4.50078856262101
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,3.20550474112603
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,4.36115246518962
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,6.07524384579659
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,7.03987272546481
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,4.61874544887136
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,3.23238831615113
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,4.10285075461155
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,4.50987264867387
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2017,5.18618655524149
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2016,6.60290842394871
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2015,4.51869094892506
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2014,6.13282953059149
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2013,5.78016910069175
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2012,5.73797139141739
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2011,5.0008533879502
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2010,4.06749555950263
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2009,7.23809523809526
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2008,9.90998456005466
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2007,6.17781214809387
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2006,3.24390765419229
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2005,2.06285308223427
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2004,-0.692039437857686
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2003,5.67942414068799
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2002,9.494713780996
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2001,5.70189483049608
+ZAF,South Africa,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2000,5.33895913599827
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2025,2490.74922791875
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2024,2395.65916961845
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2023,2315.36434710324
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2022,2227.08197820584
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2021,2146.46047529012
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2020,2055.08483996432
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2019,2093.09994335779
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2018,2013.32307598499
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2017,1972.81431788947
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2016,1889.27777949938
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2015,1814.71855088017
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2014,1742.53693001178
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2013,1632.32712787006
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2012,1503.43433046682
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2011,1426.46463864534
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2010,1540.52927270246
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2009,1473.9183699329
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2008,1454.62731800082
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2007,1420.1738958245
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2006,1437.77453798586
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2005,1431.73320203111
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2004,1451.86547141894
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2003,1441.58801755037
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2002,1551.27925902838
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2001,1636.57318705218
+CIV,Cote d'Ivoire,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2000,1717.95385651231
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2025,2260.57555903544
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2024,2173.00329800201
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2023,2091.81335596465
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2022,2067.20895855521
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2021,2030.04866500967
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2020,1970.19411460398
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2019,1999.55372220211
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2018,1915.4532323781
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2017,1841.44636153249
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2016,1740.81101902928
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2015,1722.77282833606
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2014,1726.36930134647
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2013,1718.59704769958
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2012,1640.54072088003
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2011,1537.81834019283
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2010,1381.2279503506
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2009,1311.63053760125
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2008,1282.63416886747
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2007,1205.31705804209
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2006,1185.26570738595
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2005,1143.31178934301
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2004,1108.30475353633
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2003,1077.69990866645
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2002,1052.46591644399
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2001,1035.22666053257
+GHA,Ghana,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2000,1022.27520714566
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2025,1907.81875397233
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2024,1858.87650030024
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2023,1811.21651838425
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2022,1747.53198804428
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2021,1698.89578271444
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2020,1609.33414078281
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2019,1645.70961777862
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2018,1596.69045914945
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2017,1542.33773973372
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2016,1517.97796057742
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2015,1489.11959777284
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2014,1450.59338202277
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2013,1413.94142522583
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2012,1396.30178709756
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2011,1370.58000874482
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2010,1340.16467408856
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2009,1276.73503486074
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2008,1273.77226103073
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2007,1309.91092948216
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2006,1263.54164666211
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2005,1223.44738472019
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2004,1191.25443604556
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2003,1169.14433674051
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2002,1171.4262517349
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2001,1202.29348759987
+KEN,Kenya,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2000,1195.41296851656
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2025,2368.53866265659
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2024,2324.59702394542
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2023,2280.67777167162
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2022,2254.29080414598
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2021,2206.66406255564
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2020,2228.68631426529
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2019,2431.53528475874
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2018,2431.77857832597
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2017,2441.71236404537
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2016,2481.81490350403
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2015,2585.73360671797
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2014,2583.61556958171
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2013,2495.34106573862
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2012,2403.65387896987
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2011,2370.97657091881
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2010,2315.46676509642
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2009,2204.60725603823
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2008,2098.2833922073
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2007,2020.83316299437
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2006,1949.15856804582
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2005,1889.25175325842
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2004,1824.80269456838
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2003,1717.21451111739
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2002,1644.39518877708
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2001,1465.45720342369
+NGA,Nigeria,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2000,1421.67987952016
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2025,1614.99946516665
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2024,1588.93961326571
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2023,1571.4055801623
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2022,1568.02152788113
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2021,1545.11388324435
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2020,1529.91025762634
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2019,1623.20798700291
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2018,1624.6365666885
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2017,1622.88510482914
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2016,1625.38221431193
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2015,1647.32085826836
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2014,1644.07050150089
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2013,1613.00691852166
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2012,1574.72990968301
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2011,1566.14176154754
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2010,1543.42062336352
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2009,1495.84741754789
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2008,1490.82485147612
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2007,1456.90044586522
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2006,1410.57668732902
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2005,1366.97314297454
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2004,1325.18723336594
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2003,1276.36045213934
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2002,1259.36882961546
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2001,1215.95723291216
+SSF,Sub-Saharan Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2000,1198.41035230362
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2025,5713.1191878767
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2024,5715.47531469148
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2023,5756.55049453121
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2022,5786.86505344736
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2021,5750.90937479584
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2020,5569.58483319272
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2019,6032.82972598668
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2018,6117.2701406047
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2017,6125.6920507497
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2016,6095.295060428
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2015,6112.27382485974
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2014,6155.00589462516
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2013,6170.87670863373
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2012,6121.55783860713
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2011,6067.12482726885
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2010,5953.94506512821
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2009,5847.05811084505
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2008,6009.71963138635
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2007,5891.42069421698
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2006,5650.9883176549
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2005,5406.07581377638
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2004,5187.35683424034
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2003,5011.62223150169
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2002,4916.81498068625
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2001,4786.482450463
+ZAF,South Africa,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$),2000,4700.87555500704
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,2.323
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,2.273
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,2.263
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,2.31
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,2.623
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,2.588
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,2.401
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,2.852
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2017,3.272
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2016,1.896
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2015,2.573
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2014,3.274
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2013,4.255
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2012,7.223
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2011,7.144
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2010,6.607
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2009,6.573
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2008,6.382
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2007,6.284
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2006,6.017
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2005,6.023
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2004,5.915
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2003,5.847
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2002,5.508
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2001,5.195
+CIV,Cote d'Ivoire,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2000,4.835
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,2.979
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,2.82
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,2.829
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,2.87
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,3.2
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,3.178
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,3.067
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,3.204
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2017,3.369
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2016,5.256
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2015,6.806
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2014,4.403
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2013,2.173
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2012,3.126
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2011,4.213
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2010,5.384
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2009,5.362
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2008,5.144
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2007,5.104
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2006,4.897
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2005,5.816
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2004,6.758
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2003,7.728
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2002,8.711
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2001,9.615
+GHA,Ghana,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2000,10.456
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,5.449
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,5.487
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,5.409
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,5.565
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,5.693
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,5.613
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,5.014
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,4.284
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2017,3.542
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2016,2.757
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2015,2.762
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2014,2.767
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2013,2.762
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2012,2.678
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2011,2.699
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2010,2.793
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2009,2.816
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2008,2.751
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2007,2.642
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2006,2.673
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2005,2.739
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2004,2.844
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2003,2.869
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2002,2.916
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2001,2.876
+KEN,Kenya,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2000,2.884
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,3.064
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,3.045
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,3.074
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,3.827
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,5.404
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,5.714
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,5.206
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,5.069
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2017,4.83
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2016,4.499
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2015,4.134
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2014,3.9
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2013,3.711
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2012,3.761
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2011,3.77
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2010,3.744
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2009,3.763
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2008,3.792
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2007,3.794
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2006,3.749
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2005,3.727
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2004,3.59
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2003,3.637
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2002,3.669
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2001,3.9
+NGA,Nigeria,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2000,3.953
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,5.66118665705316
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,5.6711358365663
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,5.76152900751665
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,6.08211610820711
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,6.84750929089377
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,6.65249326111529
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,6.18089551293782
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,6.03233771776817
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2017,5.99391143462101
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2016,5.86589334716284
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2015,5.78723856454759
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2014,5.62977664752398
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2013,5.57489984928367
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2012,5.8029961583218
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2011,5.91593755883997
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2010,5.94056421498979
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2009,5.7657098069813
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2008,5.71119279179789
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2007,5.71458050648746
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2006,5.75538288432853
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2005,5.84614199165635
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2004,5.94433087548822
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2003,6.09002400306892
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2002,6.15545043361504
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2001,6.25911261802644
+SSF,Sub-Saharan Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2000,6.35294746056262
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,32.391
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,32.279
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,32.098
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,33.268
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,34.007
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,29.217
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,28.468
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,26.906
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2017,27.035
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2016,26.536
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2015,25.149
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2014,24.89
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2013,24.561
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2012,24.727
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2011,24.639
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2010,24.683
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2009,23.523
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2008,22.407
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2007,22.26
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2006,22.304
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2005,22.472
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2004,22.567
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2003,22.679
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2002,22.579
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2001,22.652
+ZAF,South Africa,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2000,22.788
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2025,581.928481040339
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2024,606.345297609062
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2023,606.569750165917
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2022,623.759700911182
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2021,554.530675033104
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2020,575.586004510945
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2019,585.911013180369
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2018,555.446458398226
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2017,580.656749587858
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2016,592.605615063022
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2015,591.21169798261
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2014,493.757329875312
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2013,493.899623852237
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2012,510.556338454251
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2011,471.248625718937
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2010,494.794262222947
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2009,470.293423341398
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2008,446.000041432788
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2007,478.633718476363
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2006,522.425624895176
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2005,527.258362649626
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2004,527.338032291576
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2003,579.897426172466
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2002,693.713226496374
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2001,732.397693260228
+CIV,Cote d'Ivoire,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2000,710.207977031367
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2025,12.556825
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2024,14.1819416666666
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2023,11.0204083333333
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2022,8.2724
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2021,5.8057
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2020,5.59570833333333
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2019,5.21736666666666
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2018,4.585325
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2017,4.35053333333333
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2016,3.90981666666666
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2015,3.71464166666666
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2014,2.896575
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2013,1.98135
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2012,1.82486666666666
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2011,1.520625
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2010,1.42998333333333
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2009,1.40496666666666
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2008,1.052275
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2007,0.932619195
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2006,0.915106799166666
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2005,0.905209485833333
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2004,0.899494854007062
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2003,0.866764326525345
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2002,0.792417084313167
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2001,0.716305157808995
+GHA,Ghana,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2000,0.544919175868766
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2025,129.302572099377
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2024,134.822483279332
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2023,139.846383759616
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2022,117.865989201682
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2021,109.637746592367
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2020,106.450780158517
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2019,101.99129838935
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2018,101.301574049018
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2017,103.410004519013
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2016,101.504369498594
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2015,98.1784533265271
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2014,87.9221638089726
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2013,86.1228788982654
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2012,84.5296017573529
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2011,88.8107699710456
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2010,79.2331517045454
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2009,77.3520122975789
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2008,69.175319816226
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2007,67.3176381242857
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2006,72.1008350178621
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2005,75.554109451431
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2004,79.1738760642135
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2003,75.9355694444444
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2002,78.7491416666666
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2001,78.563195
+KEN,Kenya,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2000,76.1755416666666
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2025,1518.38094813367
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2024,1478.96519740023
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2023,645.194067883201
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2022,425.979158066857
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2021,401.152029220779
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2020,358.810797258297
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2019,306.920951495222
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2018,306.083688245234
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2017,305.790109160004
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2016,253.492
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2015,192.440333333333
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2014,158.552641666666
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2013,157.311666666666
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2012,157.5
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2011,153.8625
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2010,150.2975
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2009,148.88
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2008,118.566666666666
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2007,125.808108333333
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2006,128.651666666666
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2005,131.274333333333
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2004,132.888025
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2003,129.22235
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2002,120.578158333333
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2001,111.23125
+NGA,Nigeria,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2000,101.697333333333
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2025,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2024,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2023,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2022,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2021,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2020,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2019,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2018,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2017,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2016,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2015,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2014,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2013,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2012,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2011,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2010,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2009,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2008,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2007,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2006,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2005,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2004,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2003,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2002,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2001,
+SSF,Sub-Saharan Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2000,
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2025,17.8887489855833
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2024,18.3286575505
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2023,18.4502441785
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2022,16.3558534845
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2021,14.7786782139166
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2020,16.4591053903333
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2019,14.4484270548333
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2018,13.2339264715833
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2017,13.3238014244991
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2016,14.7096108855267
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2015,12.7589308811644
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2014,10.852655568783
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2013,9.65505606913526
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2012,8.20996862659331
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2011,7.26113213232734
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2010,7.32122196115288
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2009,8.47367415824888
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2008,8.26122333333333
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2007,7.045365
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2006,6.77154916666666
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2005,6.35932833333333
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2004,6.4596925
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2003,7.56474916666666
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2002,10.5407466666666
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2001,8.60918083333333
+ZAF,South Africa,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2000,6.93982833333333
